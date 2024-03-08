@@ -1,0 +1,30 @@
+.menu{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.ui{
+    display: inline;
+    position: sticky;
+    top: 10px;
+}
+
+
+
+
+.Parent{
+    position: sticky;
+    top: 10px;
+}
+
+
+
+.box1{
+    background-color: #25cb94;
+}
+.box2{
+    background-color: blueviolet;
+}
+.box3{
+    background-color: brown;
+}

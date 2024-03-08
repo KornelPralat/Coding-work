@@ -1,0 +1,12 @@
+.h1{
+    background-color: rgb(210, 30, 33);
+    font-size: 45px;
+}
+.p1{
+    background-color: aquamarine;
+    background-position: 300px;
+    padding: 50px;
+    border: 25px;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+}

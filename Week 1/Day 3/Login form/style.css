@@ -1,0 +1,22 @@
+.container{
+    background-color: bisque;
+    width: 200px;
+    height: 250px;
+    padding-top: 10px;
+}
+.input{
+    display: block;
+    margin: 10px auto;
+}
+.textBox{
+    border: none;
+    width: 90%;
+    height: 20px;
+    outline: none;
+    border-bottom: 2px solid chartreuse;
+    font-size: 10px;
+    color: blue;
+}
+.button{
+    width: 100px;
+}

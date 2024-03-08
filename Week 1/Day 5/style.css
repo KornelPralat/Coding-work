@@ -1,0 +1,19 @@
+@keyframes Random {
+    from {background-color: red;
+        transform: scale(1,1)
+    }
+    to {background-color: yellow;
+    transform: scale(2,2);
+}
+}
+
+.Random{
+    width: 200px;
+    height: 200px;
+    margin: 300px auto;
+    animation-name: Random;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+    border-radius: 150px;
+    transform: scale(3,3)
+}

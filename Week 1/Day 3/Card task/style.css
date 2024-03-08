@@ -1,0 +1,15 @@
+.container{
+    width: 250px;
+    height: 100px;
+    background-color: bisque;
+    text-align: center;
+    border-radius: 10px;
+    overflow: hidden;
+}
+.container img{
+    width: 100%;
+}
+.container p{
+    margin: 0px 10px;
+    font-size: 1rem;
+}
